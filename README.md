@@ -26,7 +26,7 @@ Sur MacOS:
 export LD_LIBRARY_PATH=.
 ```
 ```
-gcc -L. -lasm
+gcc -L. -lasm [fichier.c]
 ```
 
 ## Fonctions disponibles
